@@ -2,11 +2,12 @@
 
 This repository contains the legal documentation and policies for the Finance Calcs mobile application.
 
-## 📄 Pages
+## 📄 Available Pages
 
-- **[Privacy Policy](privacy.html)** - How we protect user privacy and handle data
-- **[Terms of Service](terms.html)** - Terms and conditions for using Finance Calcs
-- **[Home](index.html)** - Legal information landing page
+- **Landing Page**: `index.html` - Overview of legal documentation
+- **Privacy Policy**: `privacy.html` - Complete privacy policy
+- **Terms of Service**: `terms.html` - Terms and conditions
+- **Support & Help**: `support.html` - Comprehensive user support and FAQ
 
 ## 🌐 Live URLs
 
@@ -14,6 +15,7 @@ Once deployed via GitHub Pages, these pages will be available at:
 - https://prashantbhide78.github.io/finance-calcs-legal/
 - https://prashantbhide78.github.io/finance-calcs-legal/privacy.html
 - https://prashantbhide78.github.io/finance-calcs-legal/terms.html
+- https://prashantbhide78.github.io/finance-calcs-legal/support.html
 
 ## 🚀 Deployment
 
